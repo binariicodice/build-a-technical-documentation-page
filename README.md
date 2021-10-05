@@ -39,3 +39,7 @@ User Story #15: My Technical Documentation page should use at least one media qu
 <h2>Preview:</h2>
 
 ![alt text](https://github.com/binariicodice/build-a-technical-documentation-page/blob/main/1.png?raw=true)
+
+![alt text](https://github.com/binariicodice/build-a-technical-documentation-page/blob/main/2.png?raw=true)
+
+![alt text](https://github.com/binariicodice/build-a-technical-documentation-page/blob/main/3.png?raw=true)
